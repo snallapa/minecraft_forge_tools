@@ -8,7 +8,7 @@
     "journeymap": {
         "source": "CURSEFORGE",
         "project_id": "32274",
-        "release": "1.16.5",
+        "version": "1.16.5",
         "release_type": "release"
     }
 }
