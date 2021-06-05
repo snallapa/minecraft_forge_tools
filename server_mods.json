@@ -4,5 +4,10 @@
         "owner": "snallapa",
         "repo": "ScentFinderMod",
         "version": "1.8"
+    },
+    "journeymap": {
+        "project_id": "32274",
+        "release": "1.16.5",
+        "release_type": "release"
     }
 }
